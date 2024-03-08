@@ -21,3 +21,70 @@
 ## OOP concepts used
 ![Used OOP conscepts0](https://user-images.githubusercontent.com/95247831/200813470-5037de97-efc6-4507-83ec-b41a9d9f7726.png)
 ![Used OOP conscepts1](https://user-images.githubusercontent.com/95247831/200813507-555d487f-08e6-4be6-af1e-81431550f9a0.png)
+
+
+
+
+
+
+
+# Cool Mart Inventory Management System
+
+Cool Mart Inventory Management System is an object-oriented programming (OOP) based application developed in C++ for managing stock, supplies, and staff in a retail environment.
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Classes and Functions](#classes-and-functions)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+
+This application is designed to streamline inventory-related tasks such as managing stock levels, handling supplies, and keeping track of staff details. It provides a user-friendly interface for owners, managers, and cashiers to efficiently manage day-to-day operations in a retail setting.
+
+## Features
+
+- **Stock Management**: View, update, and add new categories and products to the stock.
+- **Supply Management**: Keep track of local and international supplies, and add new supplies to the system.
+- **Staff Management**: View details of staff members, including their full name, position, and join date.
+- **User Authentication**: Different access levels (Owner, Manager, Cashier, Floor Worker) ensure secure access to specific features.
+
+## Classes and Functions
+
+### Stock Class
+- `showstock()`: Display the current stock details.
+- `stock_down()`: Decrease stock levels for a given product.
+- `stock_up_down()`: Update stock levels based on supply transactions.
+- `add_category()`: Add a new category to the stock.
+- `add_product()`: Add a new product to the stock.
+
+### Supplies Class
+- `showSupplies()`: Display information about local and international supplies.
+- `add_product_to_supplies()`: Add a new supply to the system.
+- `pass_supplies()`: Update stock levels based on supply transactions.
+
+### Staff Class
+- `setData()`: Collect and set information about staff members.
+- `showData()`: Display details of a staff member.
+- `get_username()`, `get_password()`, `get_positionValue()`, `get_fullname()`: Retrieve specific details of a staff member.
+
+### Interconnect Class
+- `Initiate()`: Initialize the system with default values and staff details.
+- `mainProgramme()`: The main program loop that provides the user interface and options.
+
+## Usage
+
+1. Clone the repository to your local machine.
+2. Compile and run the application using a C++ compiler.
+3. Follow the on-screen prompts to navigate through different features.
+4. Use the provided staff usernames and passwords to access specific functionalities.
+
+## Contributing
+
+If you'd like to contribute to the project, please follow the guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
