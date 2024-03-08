@@ -4,10 +4,7 @@
 Cool Mart Inventory Management System is an object-oriented programming (OOP) based application developed in C++ for managing stock, supplies, and staff in a retail environment.
 
 
-- ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-- ![Object-Oriented Programming](https://img.shields.io/badge/Object--Oriented%20Programming-FFD700?style=flat)
-- ![File Handling](https://img.shields.io/badge/File%20Handling-008080?style=flat)
-- ![Windows API](https://img.shields.io/badge/Windows%20API-0078D6?style=flat) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Object-Oriented Programming](https://img.shields.io/badge/Object--Oriented%20Programming-FFD700?style=flat)  ![File Handling](https://img.shields.io/badge/File%20Handling-008080?style=flat) ![Windows API](https://img.shields.io/badge/Windows%20API-0078D6?style=flat) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 
 ## Table of Contents
